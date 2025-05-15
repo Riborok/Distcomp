@@ -1,5 +1,0 @@
-databaseChangeLog:
-  - include:
-      file: db/changelog/db.changelog-create_tables-1.0.sql
-  - include:
-      file: db/changelog/db.changelog-create_tables-1.1.sql

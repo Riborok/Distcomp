@@ -1,8 +1,0 @@
-# binaries directory
-bin/
-
-# Output of the go coverage tool
-.out*
-
-# env file
-.env*
